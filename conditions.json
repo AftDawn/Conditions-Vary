@@ -1,0 +1,13 @@
+{
+	"id": "Conditions",
+	"name": "Conditions Vary",
+	"author": ["AftDawn"],
+	"description": "After a few plays, your cards do tend to not look like they did out of the pack",
+	"prefix": "condition",
+	"main_file": "conditions.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "0.0.1",
+	"dependencies": []
+}
