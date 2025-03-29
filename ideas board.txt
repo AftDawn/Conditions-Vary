@@ -12,13 +12,17 @@ Card Modifiers:
 
 
     Condition (New Type, Effects can stack):
-        Soggy/Wet: Applies a debug or something, no turning back? 
+        Soggy/Wet: Applies a debuff or something, no turning back once wet (ie, no way to dry)?  
 
-        Frozen: Synergizes well with Frost Joker, also has some buff on it's own, melts after 3 uses
+        Frozen: Synergizes well with Frost Joker, has a bigger debuff then wet on it's own, melts after 3 plays into wet, never found in playing card packs
+
+        Goo Coated:
+
+        Frozen Goo Coated: never found in playing card booster packs
 
         Bent:
 
-        Worn: 5 levels of wear?
+        Worn: (5 levels of wear?)
 
         Scratched:
 
@@ -30,7 +34,9 @@ Card Modifiers:
 
         Albino: extremely extremely rare, but probs really powerful
 
-        Double Print: Applies both card's effects
+        Double Print: Applies both card's effects (show what other card is printed)
+
+        Ghosting: Applies this card's effect twice
 
         Printed Fold Over:
 
@@ -49,38 +55,23 @@ Jokers:
     Afariedan: allows you to use a consumable twice
         Cost:
         Rarity:
+
+    Mimic: copies the effects of a random joker you own each round
+        Cost:
+        Rarity:
+
+    Stone Joker (needs a rename): x2 Mult per stone card scored
+        Cost:
+        Rarity:
         Theme: Hydra
 
-    Tal: copies the effects of a random joker you own each round
+    Frozen Joker: Changes any Frozen Condition's debuffs into buffs, change any Wet Condition into frozen when drawn
         Cost:
         Rarity:
-        Theme: Goldpond
 
-    Talan Omega: x2 Mult per stone card scored
+    Goo Joker: Randomly apply gooed condition to a card every blind, for every edition card in your deck, x1.1 mult
         Cost:
         Rarity:
-        Theme: Hydra
-
-    Frost: something to do with freezing Soggy/Wet Condition cards
-        Cost:
-        Rarity:
-        Theme: Freeheart/F1RRE
-
-    Mono:
-        Cost:
-        Rarity:
-        Theme: Freeheart/F1RRE
-
-    Kazo:
-        Cost:
-        Rarity:
-        Theme: Freeheart/F1RRE
-
-    Theta:
-        Cost:
-        Rarity:
-        Theme: Freeheart/F1RRE
-
 
 
 
@@ -89,15 +80,10 @@ Consumables:
 
 
     Planet:
-        Avalon (Avali Homeworld):
-            Cost:
-
-        Deep Space Biotech Facility (Protogen):
-            Cost:
 
 
     Spectral:
-        Weave: applies random of all posible modifier (Edition, Enhancement and Seal) to up to two cards
+        Weave: randomly applies an Edition, Enhancement and/or Seal on up to two cards (doesn't mess with condition)
 
 
     Vouchers:
@@ -111,6 +97,9 @@ Consumables:
 
 Decks and Deck Sleeves:
     Condition Deck: like Edition/Enhancement/Sticker/Seal Decks from Cryptid
+
+    Well "Loved" Deck: Cards have a 33% chance of gaining a Condition when drawn or played (played will happen after scoring)
+        Look: probs use red deck as a base, sun bleach it a bit, maybe give the back a few condition shaders on it's own without affecting the front
 
 
 
