@@ -1,14 +1,48 @@
 Card Modifiers:
     Edtitions (Holographic, Polychrome, Foil, Negative):
-        Soggy/Wet: Applies a debug or something
-
-        Frozen: Synergizes well with Frost Joker, also has some buff on it's own, melts after 3 uses
 
 
     Enhancements (Bonus, Mult, Wild, Glass, Stone, Gold, Steel, Lucky):
 
 
     Seals (Gold, Red, Blue, Purple):
+
+
+    Stickers (Eternal, Perishable, Rental):
+
+
+    Condition (New Type, Effects can stack):
+        Soggy/Wet: Applies a debug or something, no turning back? 
+
+        Frozen: Synergizes well with Frost Joker, also has some buff on it's own, melts after 3 uses
+
+        Bent:
+
+        Worn: 5 levels of wear?
+
+        Scratched:
+
+        Miscut:
+
+        Offcentered:
+
+        Sun Bleached:
+
+        Albino: extremely extremely rare, but probs really powerful
+
+        Double Print: Applies both card's effects
+
+        Printed Fold Over:
+
+        Folded:
+
+        Crimped: only from boosters (maybe also apart of a Condition Deck?)
+
+        Printer Hickey:
+
+
+
+
 
 
 Jokers:
@@ -27,7 +61,7 @@ Jokers:
         Rarity:
         Theme: Hydra
 
-    Frost:
+    Frost: something to do with freezing Soggy/Wet Condition cards
         Cost:
         Rarity:
         Theme: Freeheart/F1RRE
@@ -47,7 +81,7 @@ Jokers:
         Rarity:
         Theme: Freeheart/F1RRE
 
-    
+
 
 
 Consumables:
@@ -76,6 +110,7 @@ Consumables:
 
 
 Decks and Deck Sleeves:
+    Condition Deck: like Edition/Enhancement/Sticker/Seal Decks from Cryptid
 
 
 
