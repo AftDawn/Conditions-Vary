@@ -1,0 +1,71 @@
+Card Modifiers:
+    Edtitions (Holographic, Polychrome, Foil, Negative):
+
+
+    Enhancements (Bonus, Mult, Wild, Glass, Stone, Gold, Steel, Lucky):
+
+
+    Seals (Gold, Red, Blue, Purple):
+
+
+Jokers:
+    Afariedan: allows you to use a consumable twice
+        Cost:
+        Rarity:
+        Theme: Hydra
+
+    Tal: copies the effects of a random joker you own each round
+        Cost:
+        Rarity:
+        Theme: Goldpond
+
+    Talan Omega: x2 Mult per stone card scored
+        Cost:
+        Rarity:
+        Theme: Hydra
+
+
+Consumables:
+    Tarot:
+
+
+    Planet:
+        Avalon (Avali Homeworld):
+            Cost:
+
+        Deep Space Biotech Facility (Protogen):
+            Cost:
+
+
+    Spectral:
+        Weave: applies random of all posible modifier (Edition, Enhancement and Seal) to up to two cards
+
+
+    Vouchers:
+
+
+
+    Booster Packs and New Consumables:
+
+
+
+
+Decks and Deck Sleeves:
+
+
+
+Blinds:
+
+
+
+Tags:
+
+
+
+Poker Hands:
+
+
+
+Friends of Jimbo Custom Art:
+
+
