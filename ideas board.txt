@@ -1,5 +1,8 @@
 Card Modifiers:
     Edtitions (Holographic, Polychrome, Foil, Negative):
+        Soggy/Wet: Applies a debug or something
+
+        Frozen: Synergizes well with Frost Joker, also has some buff on it's own, melts after 3 uses
 
 
     Enhancements (Bonus, Mult, Wild, Glass, Stone, Gold, Steel, Lucky):
@@ -23,6 +26,28 @@ Jokers:
         Cost:
         Rarity:
         Theme: Hydra
+
+    Frost:
+        Cost:
+        Rarity:
+        Theme: Freeheart/F1RRE
+
+    Mono:
+        Cost:
+        Rarity:
+        Theme: Freeheart/F1RRE
+
+    Kazo:
+        Cost:
+        Rarity:
+        Theme: Freeheart/F1RRE
+
+    Theta:
+        Cost:
+        Rarity:
+        Theme: Freeheart/F1RRE
+
+    
 
 
 Consumables:
