@@ -14,11 +14,13 @@ Card Modifiers:
     Condition (New Type, Effects can stack):
         Soggy/Wet: Applies a debuff or something, no turning back once wet (ie, no way to dry)?  
 
-        Frozen: Synergizes well with Frost Joker, has a bigger debuff then wet on it's own, melts after 3 plays into wet, never found in playing card packs
+        Frozen: Synergizes well with Frozen Joker, has a bigger debuff then wet on it's own, melts after 3 plays into wet, never found in playing card packs
 
         Goo Coated:
 
         Frozen Goo Coated: never found in playing card booster packs
+
+        Mimicked: Synergizes 
 
         Bent:
 
@@ -54,16 +56,15 @@ Card Modifiers:
 Jokers:
     Afariedan: allows you to use a consumable twice
         Cost:
-        Rarity:
+        Rarity: Legendary
 
     Mimic: copies the effects of a random joker you own each round
         Cost:
-        Rarity:
+        Rarity: Rare
 
     Stone Joker (needs a rename): x2 Mult per stone card scored
         Cost:
         Rarity:
-        Theme: Hydra
 
     Frozen Joker: Changes any Frozen Condition's debuffs into buffs, change any Wet Condition into frozen when drawn
         Cost:
@@ -72,6 +73,10 @@ Jokers:
     Goo Joker: Randomly apply gooed condition to a card every blind, for every edition card in your deck, x1.1 mult
         Cost:
         Rarity:
+
+    Condition Overload: mult per played card with condition
+        Cost:
+        Rarity: Rare
 
 
 
